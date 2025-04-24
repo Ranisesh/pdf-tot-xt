@@ -7,4 +7,4 @@ Click convert
 Pdf is cobverted bto a formated text page py page
 Paste in any Voice generating App
 Learn as you go
-Foeroed to your friends who are in need
+Forword to your friends who are in need
